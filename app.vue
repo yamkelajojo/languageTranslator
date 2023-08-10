@@ -11,7 +11,7 @@
 <style>
 #body {
   height: 100vh;
-  min-width: max-content;
+  /* min-width: max-content; */
   flex-direction: column;
 }
 </style>

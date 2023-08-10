@@ -1,6 +1,6 @@
 <template>
-  <div id="header" class="flex-cnt pd">
-    <h1>WeatherSite</h1>
+  <div id="header" class="flex-cnt pd-y">
+    <!-- <h1>WeatherSite</h1> -->
     <Icon name="twemoji:sun-behind-small-cloud" size="3rem" />
   </div>
 </template>
